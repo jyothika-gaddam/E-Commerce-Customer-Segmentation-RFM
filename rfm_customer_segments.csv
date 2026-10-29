@@ -1,0 +1,81 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,RFM_Total,Segment
+10071,40,10,594.0,5,5,5,555,15,Champions
+10062,84,7,478.5,5,5,5,555,15,Champions
+10053,26,7,376.5,5,5,5,555,15,Champions
+10074,23,5,336.0,5,5,5,555,15,Champions
+10018,146,7,432.5,4,5,5,455,14,Champions
+10002,176,5,340.0,4,5,5,455,14,Champions
+10078,68,5,257.5,5,5,4,554,14,Champions
+10015,44,6,222.0,5,5,4,554,14,Champions
+10026,232,10,516.5,3,5,5,355,13,Loyal Customers
+10038,181,10,482.5,3,5,5,355,13,Loyal Customers
+10067,193,6,377.0,3,5,5,355,13,Loyal Customers
+10004,227,6,356.5,3,5,5,355,13,Loyal Customers
+10013,41,4,305.5,5,4,4,544,13,Champions
+10065,99,5,160.5,5,5,3,553,13,Loyal Customers
+10019,298,7,543.5,2,5,5,255,12,At Risk
+10056,272,6,472.0,2,5,5,255,12,At Risk
+10075,312,6,436.5,1,5,5,155,11,At Risk
+10042,319,6,370.5,1,5,5,155,11,At Risk
+10060,132,3,318.0,4,3,4,434,11,Potential Loyalists
+10028,168,3,288.0,4,3,4,434,11,Potential Loyalists
+10009,113,3,255.5,4,3,4,434,11,Potential Loyalists
+10080,180,4,250.5,3,4,4,344,11,Loyal Customers
+10072,158,3,235.0,4,3,4,434,11,Potential Loyalists
+10077,1,2,208.0,5,2,4,524,11,Potential Loyalists
+10054,79,3,194.0,5,3,3,533,11,Potential Loyalists
+10001,24,3,176.5,5,3,3,533,11,Potential Loyalists
+10037,65,3,168.5,5,3,3,533,11,Potential Loyalists
+10055,205,5,161.0,3,5,3,353,11,Loyal Customers
+10044,333,4,329.5,1,4,5,145,10,At Risk
+10032,302,3,320.0,2,3,5,235,10,At Risk
+10012,243,3,279.0,3,3,4,334,10,Needs Attention
+10076,166,2,206.0,4,2,4,424,10,Potential Loyalists
+10025,215,4,185.0,3,4,3,343,10,Loyal Customers
+10003,66,2,172.0,5,2,3,523,10,Potential Loyalists
+10052,185,4,171.0,3,4,3,343,10,Loyal Customers
+10020,172,3,154.0,4,3,3,433,10,Potential Loyalists
+10023,41,3,127.5,5,3,2,532,10,Potential Loyalists
+10016,107,1,224.0,4,1,4,414,9,Recent Customers
+10040,138,2,201.0,4,2,3,423,9,Potential Loyalists
+10007,308,4,187.0,2,4,3,243,9,At Risk
+10045,251,4,150.5,2,4,3,243,9,At Risk
+10024,163,3,135.0,4,3,2,432,9,Potential Loyalists
+10017,170,3,102.0,4,3,2,432,9,Potential Loyalists
+10079,317,3,255.0,1,3,4,134,8,At Risk
+10030,247,2,252.5,2,2,4,224,8,Hibernating / Lost
+10022,332,3,216.5,1,3,4,134,8,At Risk
+10014,263,2,202.0,2,2,4,224,8,Hibernating / Lost
+10058,230,2,174.0,3,2,3,323,8,Needs Attention
+10057,260,3,167.0,2,3,3,233,8,At Risk
+10041,263,3,155.0,2,3,3,233,8,At Risk
+10069,121,2,137.5,4,2,2,422,8,Potential Loyalists
+10034,183,3,131.0,3,3,2,332,8,Needs Attention
+10051,103,2,74.0,5,2,1,521,8,Potential Loyalists
+10010,328,3,199.5,1,3,3,133,7,At Risk
+10059,178,2,146.5,3,2,2,322,7,Needs Attention
+10008,245,2,109.0,3,2,2,322,7,Needs Attention
+10011,141,2,54.0,4,2,1,421,7,Potential Loyalists
+10073,40,1,9.5,5,1,1,511,7,Recent Customers
+10063,315,3,146.0,1,3,2,132,6,Needs Attention
+10029,282,2,140.0,2,2,2,222,6,Hibernating / Lost
+10046,265,2,108.5,2,2,2,222,6,Hibernating / Lost
+10031,184,1,104.0,3,1,2,312,6,Needs Attention
+10033,196,1,100.0,3,1,2,312,6,Needs Attention
+10066,166,1,77.0,4,1,1,411,6,Recent Customers
+10021,138,1,9.5,4,1,1,411,6,Recent Customers
+10050,325,2,144.0,1,2,2,122,5,Hibernating / Lost
+10047,259,1,134.0,2,1,2,212,5,Hibernating / Lost
+10035,373,2,125.0,1,2,2,122,5,Hibernating / Lost
+10039,314,2,90.0,1,2,2,122,5,Hibernating / Lost
+10036,284,2,87.0,2,2,1,221,5,Hibernating / Lost
+10048,244,1,56.0,3,1,1,311,5,Needs Attention
+10068,325,2,70.5,1,2,1,121,4,Hibernating / Lost
+10049,291,1,65.5,2,1,1,211,4,Hibernating / Lost
+10027,264,1,58.0,2,1,1,211,4,Hibernating / Lost
+10006,341,2,52.0,1,2,1,121,4,Hibernating / Lost
+10061,284,1,30.0,2,1,1,211,4,Hibernating / Lost
+10064,323,1,70.0,1,1,1,111,3,Hibernating / Lost
+10005,320,1,66.0,1,1,1,111,3,Hibernating / Lost
+10070,385,1,56.0,1,1,1,111,3,Hibernating / Lost
+10043,314,1,52.0,1,1,1,111,3,Hibernating / Lost

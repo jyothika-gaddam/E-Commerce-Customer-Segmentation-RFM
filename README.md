@@ -1,0 +1,1 @@
+These example outputs were generated from `data/sample_online_retail.csv`. They are illustrative demo results. Re-run `python src/rfm_analysis.py --input data/online_retail.csv` to replace them with results from the full UCI dataset.
